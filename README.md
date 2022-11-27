@@ -1,0 +1,1 @@
+# interview-test-dots-on-screen
